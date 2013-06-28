@@ -202,3 +202,39 @@
 [28-Jun-2013 09:16:17] PHP Stack trace:
 [28-Jun-2013 09:16:17] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
 [28-Jun-2013 09:16:17] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:21:03] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:21:03] PHP Stack trace:
+[28-Jun-2013 09:21:03] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:21:07] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:21:07] PHP Stack trace:
+[28-Jun-2013 09:21:07] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:21:08] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:21:08] PHP Stack trace:
+[28-Jun-2013 09:21:08] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:23:58] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:23:58] PHP Stack trace:
+[28-Jun-2013 09:23:58] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:23:58] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:23:58] PHP Stack trace:
+[28-Jun-2013 09:23:58] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:23:59] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:23:59] PHP Stack trace:
+[28-Jun-2013 09:23:59] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:24:00] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:24:00] PHP Stack trace:
+[28-Jun-2013 09:24:00] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:24:00] PHP Fatal error:  Call to undefined function dl() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:24:00] PHP Stack trace:
+[28-Jun-2013 09:24:00] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:25:05] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 8
+[28-Jun-2013 09:25:05] PHP Stack trace:
+[28-Jun-2013 09:25:05] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:25:05] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:8
+[28-Jun-2013 09:25:06] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 8
+[28-Jun-2013 09:25:06] PHP Stack trace:
+[28-Jun-2013 09:25:06] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:25:06] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:8
+[28-Jun-2013 09:25:07] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 8
+[28-Jun-2013 09:25:07] PHP Stack trace:
+[28-Jun-2013 09:25:07] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:25:07] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:8
