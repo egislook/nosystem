@@ -21,3 +21,6 @@
 {"ts":1372425880758,"patch":[[{"diffs":[[0,"dl('"],[-1,"gd"],[1,"../mongo"],[0,".so'"]],"start1":62,"start2":62,"length1":10,"length2":16}]],"length":539,"saved":false}
 {"ts":1372425889430,"patch":[[{"diffs":[[0,"  }\n"],[-1,"    dl('../mongo.so');\n"],[0,"    "]],"start1":113,"start2":113,"length1":31,"length2":8}]],"length":516,"saved":false}
 {"ts":1372426444064,"patch":[[{"diffs":[[0,"hp\n    \n    "],[1,"/*"],[0,"if (!extensi"]],"start1":3,"start2":3,"length1":24,"length2":26},{"diffs":[[0,"     }\n    }"],[1,"*/"],[0,"\n    phpinfo"]],"start1":106,"start2":106,"length1":24,"length2":26}]],"length":520,"saved":false}
+{"ts":1372426630416,"patch":[[{"diffs":[[0,"    "],[-1,"/*if (!extension_loaded('mongo')) {\n        if (!dl('../mongo.so')) {\n            exit;\n        }\n    }*/"],[0,"\n   "]],"start1":11,"start2":11,"length1":113,"length2":8}]],"length":415,"saved":false}
+{"ts":1372426641739,"patch":[[{"diffs":[[0,"   \n    "],[1,"//"],[0,"phpinfo("]],"start1":12,"start2":12,"length1":16,"length2":18}]],"length":417,"saved":false}
+{"ts":1372426643923,"patch":[[{"diffs":[[0,"   \n    "],[1,"//"],[0,"dump($GL"]],"start1":384,"start2":384,"length1":16,"length2":18}]],"length":419,"saved":false}
