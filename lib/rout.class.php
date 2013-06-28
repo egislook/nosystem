@@ -16,13 +16,6 @@
     
         function __construct(){
             parent::__construct();
-        
-            /*if($_SERVER['HTTP_X_REQUESTED_WITH'] == 'XMLHttpRequest') {
-                dump('ajax');
-            }
-            else
-                dump('neajax');*/
-                
                 
             $url = $this->filterGet();
             

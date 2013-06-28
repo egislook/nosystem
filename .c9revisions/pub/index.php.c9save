@@ -6,3 +6,4 @@
 {"ts":1372422185746,"patch":[[{"diffs":[[0,"echo('wt"],[1,"f"],[0,"')"],[1,";"],[0,"\n    inc"]],"start1":10,"start2":10,"length1":18,"length2":20}]],"length":404,"saved":false}
 {"ts":1372422360565,"patch":[[{"diffs":[[0,"'MSG']);"],[1,"\n"]],"start1":396,"start2":396,"length1":8,"length2":9}]],"length":405,"saved":false}
 {"ts":1372422362689,"patch":[[{"diffs":[[0,"MSG']);\n"],[1,"?>"]],"start1":397,"start2":397,"length1":8,"length2":10}]],"length":407,"saved":false}
+{"ts":1372422940093,"patch":[[{"diffs":[[0,"php\n"],[-1,"    echo('wtf');\n"],[0,"    "]],"start1":2,"start2":2,"length1":25,"length2":8}]],"length":390,"saved":false}

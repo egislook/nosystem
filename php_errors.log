@@ -1,0 +1,108 @@
+[28-Jun-2013 08:54:01] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 08:54:01] PHP Stack trace:
+[28-Jun-2013 08:54:01] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 08:54:01] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 08:54:01] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 08:54:01] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 08:54:01] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 08:54:01] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 08:54:55] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 08:54:55] PHP Stack trace:
+[28-Jun-2013 08:54:55] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 08:54:55] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 08:54:55] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 08:54:55] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 08:54:55] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 08:54:55] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 08:56:09] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 08:56:09] PHP Stack trace:
+[28-Jun-2013 08:56:09] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 08:56:09] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 08:56:09] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 08:56:09] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 08:56:09] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 08:56:09] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 08:56:42] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 08:56:42] PHP Stack trace:
+[28-Jun-2013 08:56:42] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 08:56:42] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 08:56:42] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 08:56:42] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 08:56:42] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 08:56:42] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:06:26] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:06:26] PHP Stack trace:
+[28-Jun-2013 09:06:26] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:06:26] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:06:26] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:06:26] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:06:26] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:06:26] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:06:28] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:06:28] PHP Stack trace:
+[28-Jun-2013 09:06:28] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:06:28] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:06:28] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:06:28] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:06:28] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:06:28] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:07:02] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:02] PHP Stack trace:
+[28-Jun-2013 09:07:02] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:02] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:02] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:02] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:03] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:03] PHP Stack trace:
+[28-Jun-2013 09:07:03] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:03] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:03] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:03] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:04] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:04] PHP Stack trace:
+[28-Jun-2013 09:07:04] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:04] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:04] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:04] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:04] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:04] PHP Stack trace:
+[28-Jun-2013 09:07:04] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:04] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:04] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:04] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:06] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:06] PHP Stack trace:
+[28-Jun-2013 09:07:06] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:06] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:06] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:06] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:21] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:21] PHP Stack trace:
+[28-Jun-2013 09:07:21] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:21] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:21] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:21] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:22] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:22] PHP Stack trace:
+[28-Jun-2013 09:07:22] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:22] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:22] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:22] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:23] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:23] PHP Stack trace:
+[28-Jun-2013 09:07:23] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:23] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:23] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:23] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:24] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:24] PHP Stack trace:
+[28-Jun-2013 09:07:24] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:24] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:24] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:24] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:07:25] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:07:25] PHP Stack trace:
+[28-Jun-2013 09:07:25] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:07:25] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:07:25] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:07:25] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
