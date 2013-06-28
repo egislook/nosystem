@@ -106,3 +106,99 @@
 [28-Jun-2013 09:07:25] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
 [28-Jun-2013 09:07:25] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
 [28-Jun-2013 09:07:25] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:09:08] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:09:08] PHP Stack trace:
+[28-Jun-2013 09:09:08] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:09:08] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:09:08] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:09:08] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:10:44] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:10:44] PHP Stack trace:
+[28-Jun-2013 09:10:44] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:10:44] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:10:44] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:10:44] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:10:44] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:10:44] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:10:46] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:10:46] PHP Stack trace:
+[28-Jun-2013 09:10:46] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:10:46] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:10:46] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:10:46] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:10:46] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:10:46] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:11:15] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:11:15] PHP Stack trace:
+[28-Jun-2013 09:11:15] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:11:15] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:11:15] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:11:15] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:11:15] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:11:15] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:11:17] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:11:17] PHP Stack trace:
+[28-Jun-2013 09:11:17] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:11:17] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:11:17] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:11:17] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:11:17] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:11:17] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:11:30] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:11:30] PHP Stack trace:
+[28-Jun-2013 09:11:30] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:11:30] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:11:30] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:11:30] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:11:30] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:11:30] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:11:32] PHP Fatal error:  Call to undefined function json_encode() in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 58
+[28-Jun-2013 09:11:32] PHP Stack trace:
+[28-Jun-2013 09:11:32] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:11:32] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:10
+[28-Jun-2013 09:11:32] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:11:32] PHP   4. collect->getCollectionData() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:13
+[28-Jun-2013 09:11:32] PHP   5. db->get() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:28
+[28-Jun-2013 09:11:32] PHP   6. db->fetch() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php:25
+[28-Jun-2013 09:12:50] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:12:50] PHP Stack trace:
+[28-Jun-2013 09:12:50] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:12:50] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:12:52] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:12:52] PHP Stack trace:
+[28-Jun-2013 09:12:52] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:12:52] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:12:54] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:12:54] PHP Stack trace:
+[28-Jun-2013 09:12:54] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:12:54] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:15:01] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:15:01] PHP Stack trace:
+[28-Jun-2013 09:15:01] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:15:01] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:15:05] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:15:05] PHP Stack trace:
+[28-Jun-2013 09:15:05] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:15:05] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:15:05] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:15:05] PHP Stack trace:
+[28-Jun-2013 09:15:05] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:15:05] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:12
+[28-Jun-2013 09:15:05] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:15:05] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
+[28-Jun-2013 09:15:06] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:15:06] PHP Stack trace:
+[28-Jun-2013 09:15:06] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:15:06] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:16:14] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:16:14] PHP Stack trace:
+[28-Jun-2013 09:16:14] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:16:14] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:16:16] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:16:16] PHP Stack trace:
+[28-Jun-2013 09:16:16] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:16:16] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3
+[28-Jun-2013 09:16:17] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php on line 3
+[28-Jun-2013 09:16:17] PHP Stack trace:
+[28-Jun-2013 09:16:17] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:16:17] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:3

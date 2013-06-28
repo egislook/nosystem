@@ -1,4 +1,6 @@
 <?php
+
+    phpinfo();
     include_once('../cfg/api.cfg.php');
     include_once(DIR_LIB.'api.functions.php');
     include_once(DIR_LIB.'main.class.php');
