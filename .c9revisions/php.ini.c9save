@@ -26,3 +26,5 @@
 {"ts":1372425286471,"patch":[[{"diffs":[[0,"= \"./\"\n;"],[1," "],[0,"extensio"]],"start1":35205,"start2":35205,"length1":16,"length2":17}]],"length":69109,"saved":false}
 {"ts":1372425290093,"patch":[[{"diffs":[[0,"dir = \"."],[1,"."],[0,"/\"\n; ext"]],"start1":35201,"start2":35201,"length1":16,"length2":17}]],"length":69110,"saved":false}
 {"ts":1372425363488,"patch":[[{"diffs":[[0,"ion-dir\n"],[1,"; "],[0,"extensio"]],"start1":35183,"start2":35183,"length1":16,"length2":18}]],"length":69112,"saved":false}
+{"ts":1372426451222,"patch":[[{"diffs":[[0,"ion-dir\n"],[-1,"; "],[0,"extensio"]],"start1":35183,"start2":35183,"length1":18,"length2":16},{"diffs":[[0," = \""],[-1,".."],[1,"/app/www/ext"],[0,"/\"\n"],[-1,"; "],[0,"exte"]],"start1":35204,"start2":35204,"length1":15,"length2":23}]],"length":69118,"saved":false}
+{"ts":1372426454813,"patch":[[{"diffs":[[0,"app/www/"],[-1,"ext/"],[0,"\"\nextens"]],"start1":35209,"start2":35209,"length1":20,"length2":16}]],"length":69114,"saved":false}

@@ -1,10 +1,10 @@
 <?php
     
-    if (!extension_loaded('mongo')) {
+    /*if (!extension_loaded('mongo')) {
         if (!dl('../mongo.so')) {
             exit;
         }
-    }
+    }*/
     phpinfo();
     include_once('../cfg/api.cfg.php');
     include_once(DIR_LIB.'api.functions.php');
