@@ -256,3 +256,9 @@
 [28-Jun-2013 09:34:37] PHP Stack trace:
 [28-Jun-2013 09:34:37] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
 [28-Jun-2013 09:34:37] PHP   2. phpinfo() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:8
+[28-Jun-2013 09:38:36] PHP Fatal error:  Class 'Mongo' not found in /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/mongo.db.class.php on line 9
+[28-Jun-2013 09:38:36] PHP Stack trace:
+[28-Jun-2013 09:38:36] PHP   1. {main}() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:0
+[28-Jun-2013 09:38:36] PHP   2. rout->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/pub/index.php:13
+[28-Jun-2013 09:38:36] PHP   3. collect->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/rout.class.php:26
+[28-Jun-2013 09:38:36] PHP   4. db->__construct() /var/lib/stickshift/51cd75345973ca4bf800003c/app-root/data/542187/lib/collect.class.php:9
